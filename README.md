@@ -21,7 +21,8 @@
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://zhihu.com/people/io0288)
 [<img height="26" src="https://shields.io/badge/WakaTime-ffffff.svg?style=flat-square&logo=wakatime" alt="WakaTime" />](https://wakatime.com/@IO0288)
 [<img height="26" src="https://shields.io/badge/Mastodon-ffffff.svg?style=flat-square&logo=mastodon" alt="Mastodon" />](https://hello.io0288.cn/@IO0288)
-<a rel="me" href="https://hello.io0288.cn/@IO0288" hidden></a>
+
+<a rel="me" href="https://hello.io0288.cn/@IO0288" hidden>Mastodon</a>
 
 <!--<details>
 <summary>More Repositories ...</summary>
