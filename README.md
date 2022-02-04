@@ -36,4 +36,7 @@
 <a href="https://github.com/mashirozx/weibo2toot">
   <img alt="mashirozx/weibo2toot" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api/pin/?username=mashirozx&repo=weibo2toot&show_owner=true" />
 </a>
+<a rel="me" href="https://hello.io0288.cn/@IO0288">Mastodon</a>
+  <img alt="@IO0288@hello.io0288.cn" src="https://hello.io0288.cn/system/custom_emojis/images/000/000/564/original/8f70aa9ed71276c8.png" />
+</a>
 </details>-->
