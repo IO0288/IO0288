@@ -8,7 +8,7 @@
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I wanna be a game developer 😃
 
-<img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IO0288&layout=compact" width="500">
+<!-- <img alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IO0288&layout=compact" width="500">-->
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=io0288&repo=io0288" />-->
