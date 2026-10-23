@@ -1,0 +1,28 @@
+name: metric
+
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 18 1 * *"}]
+  push: {branches: [main,dev,feature/metrics]}
+  workflow_dispatch:
+
+jobs:
+  metric:
+    name: metric
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: Metrics embed
+      uses: lowlighter/metrics@v3.34
+      with:
+        token: ${{ secrets.METRICS_TOKEN }}
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year # Display full year instead of half year
+        plugin_habits: no
+        plugin_habits_from: 200       # Use 200 events to compute habits
+        plugin_habits_days: 14        # Keep only events from last 14 days
+        plugin_habits_facts: yes      # Display facts section
+        plugin_habits_charts: yes     # Display charts section
+        plugin_habits_trim: yes       # Trim unused hours on daily chart
+        config_timezone: Asia/Shanghai # Set timezone
